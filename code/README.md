@@ -1,6 +1,6 @@
 # 데이터분석 LangGraph Agent (w. Model Context Protocol)
 
-![alt text](image.png)
+![alt text](../images/mcp.png)
 
 데이터 통계, 시각화, 모델링을 진행하는 Agent를 구현하기 위해 파이썬 기반의 MCP 서버 및 클라이언트를 구축하고, [langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) 을 사용하여 Langgraph Agent와 연동하는 프로젝트
 
